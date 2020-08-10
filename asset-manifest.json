@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Sports_Game_React_app/static/css/main.cbc630a4.chunk.css",
+    "main.js": "/Sports_Game_React_app/static/js/main.faefcd9b.chunk.js",
+    "main.js.map": "/Sports_Game_React_app/static/js/main.faefcd9b.chunk.js.map",
+    "runtime-main.js": "/Sports_Game_React_app/static/js/runtime-main.8527e276.js",
+    "runtime-main.js.map": "/Sports_Game_React_app/static/js/runtime-main.8527e276.js.map",
+    "static/js/2.fbb68554.chunk.js": "/Sports_Game_React_app/static/js/2.fbb68554.chunk.js",
+    "static/js/2.fbb68554.chunk.js.map": "/Sports_Game_React_app/static/js/2.fbb68554.chunk.js.map",
+    "index.html": "/Sports_Game_React_app/index.html",
+    "precache-manifest.c1fc071f5f4e34581d282a01665beb0a.js": "/Sports_Game_React_app/precache-manifest.c1fc071f5f4e34581d282a01665beb0a.js",
+    "service-worker.js": "/Sports_Game_React_app/service-worker.js",
+    "static/css/main.cbc630a4.chunk.css.map": "/Sports_Game_React_app/static/css/main.cbc630a4.chunk.css.map",
+    "static/js/2.fbb68554.chunk.js.LICENSE.txt": "/Sports_Game_React_app/static/js/2.fbb68554.chunk.js.LICENSE.txt",
+    "static/media/bunny.png": "/Sports_Game_React_app/static/media/bunny.f4afced4.png",
+    "static/media/hound.png": "/Sports_Game_React_app/static/media/hound.15752ad8.png",
+    "static/media/raccoon.png": "/Sports_Game_React_app/static/media/raccoon.b172ee0d.png",
+    "static/media/smb_1-up.wav": "/Sports_Game_React_app/static/media/smb_1-up.872073a1.wav",
+    "static/media/smb_fireball.wav": "/Sports_Game_React_app/static/media/smb_fireball.f0fb24ef.wav",
+    "static/media/squirrel.png": "/Sports_Game_React_app/static/media/squirrel.87db0b85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8527e276.js",
+    "static/js/2.fbb68554.chunk.js",
+    "static/css/main.cbc630a4.chunk.css",
+    "static/js/main.faefcd9b.chunk.js"
+  ]
+}
